@@ -1,0 +1,10 @@
+{
+  "name": "date_parser_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "date-format-parse": "^0.2.7"
+  }
+}
